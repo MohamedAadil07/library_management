@@ -1,4 +1,3 @@
-
 class Book:
     def __init__(self):
         self.book_list = ["intro to python","intro to javascript","intro to data structures"]
