@@ -1,6 +1,6 @@
 class Book:
     def __init__(self):
-        self.book_name = ''
+        self.book_name = 'something'
 
 class User:
     def __init__(self):
